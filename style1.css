@@ -72,7 +72,7 @@ header{
     min-width: 300px;
  
 }
-#rightAbout{
+#rightabout{
     flex: 1;
     min-width: 300px;
        
@@ -84,7 +84,7 @@ header{
     font-weight: bold;
     text-align: justify;
 }
-#rightAbout video{
+#rightabout video{
     width: 100%;
     border-radius: 20px;
     max-height: 350px;
@@ -312,7 +312,7 @@ footer{
     font-size: 1.4rem;
   }
 
-  #rightAbout video{
+  #rightabout video{
     max-height: 280px;
   }
 
@@ -375,7 +375,7 @@ footer{
     text-align: center;
   }
 
-  #rightAbout video{
+  #rightabout video{
     max-height: 220px;
   }
 
